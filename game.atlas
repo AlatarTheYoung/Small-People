@@ -1,0 +1,55 @@
+
+game.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+BuildingIcons/Skynet cache
+  rotate: false
+  xy: 712, 1252
+  size: 700, 720
+  orig: 700, 720
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Skynet
+  rotate: false
+  xy: 4, 524
+  size: 700, 720
+  orig: 700, 720
+  offset: 0, 0
+  index: -1
+NationIcons/Small People
+  rotate: false
+  xy: 4, 4
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+ReligionIcons/Faithful
+  rotate: false
+  xy: 4, 1252
+  size: 700, 720
+  orig: 700, 720
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Skynet
+  rotate: false
+  xy: 1420, 1896
+  size: 64, 76
+  orig: 64, 76
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Skynet2
+  rotate: false
+  xy: 524, 440
+  size: 64, 76
+  orig: 64, 76
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Seaside
+  rotate: false
+  xy: 712, 738
+  size: 504, 506
+  orig: 504, 506
+  offset: 0, 0
+  index: -1
