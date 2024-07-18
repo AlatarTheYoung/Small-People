@@ -5,7 +5,7 @@
 		"leaderName": "Alatar The Blue",
 		"adjective": ["small ones"],
 	  	"style": "halfling",
-		"outerColor": [65, 141, 254],
+		"outerColor": [111, 183, 216],
 		"innerColor": [145, 76, 7],
 
 		"startBias": ["Coast"],
