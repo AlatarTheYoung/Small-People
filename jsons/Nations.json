@@ -6,7 +6,7 @@
 		"adjective": ["small ones"],
 	  	"style": "halfling",
 		"outerColor": [65, 141, 254],
-		"innerColor": [156, 207, 174],
+		"innerColor": [145, 76, 7],
 
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Cultural",
