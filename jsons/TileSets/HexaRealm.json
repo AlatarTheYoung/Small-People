@@ -1,6 +1,6 @@
 {
 	"ruleVariants": {
-		"Ocean+Skynet": ["Ocean+Skynet"],
-		"Coast+Skynet": ["Coast+Skynet"],
+		"Ocean+Skynet": ["Ocean", "Ocean+Skynet"],
+		"Coast+Skynet": ["Coast", "Coast+Skynet"],
 	}
 }
