@@ -30,7 +30,6 @@
 		"uniqueName": "Seaside",
 		"uniques": [
 			"Comment [-33% maintenance costs for Water units]",
-            "Comment [Water units may heal outside of friendly territory]",
             "Comment [Water units can build Water improvements on tiles]",
             "[Water] units gain the [Seaside] promotion <hidden from users>"
 		],
