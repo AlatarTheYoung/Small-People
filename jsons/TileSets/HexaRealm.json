@@ -1,7 +1,7 @@
 {
 	"useColorAsBaseTerrain": "false",
 	"ruleVariants": {
-		"Ocean+Skynet": ["Ocean", "OSkynet"],
-		"Coast+Skynet": ["Coast", "CSkynet"],
+		"Ocean+Skynet": ["Ocean", "Ocean+Skynet"],
+		"Coast+Skynet": ["Coast", "Coast+Skynet"],
 	}
 }
