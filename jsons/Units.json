@@ -1,8 +1,8 @@
-{
-		{
+[
+	{
 		"name": "Buzzer",
-		"uniqueTo": "Small People",
 		"unitType": "Fighter",
+		"uniqueTo": "Small People",
 		"movement": 1,
 		"strength": 25,
 		"rangedStrength": 25,
@@ -16,4 +16,4 @@
 		"uniques": ["[-200]% Strength <vs cities> <when attacking>"],
 		"attackSound": "shipCannonVolley"
 	},
-}
+]
