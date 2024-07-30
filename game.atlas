@@ -6,154 +6,161 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 BuildingIcons/Mosquito tactics academy
   rotate: false
-  xy: 1556, 1872
+  xy: 1420, 1776
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Skynet cache
   rotate: false
-  xy: 712, 1252
+  xy: 712, 1316
   size: 700, 720
   orig: 700, 720
   offset: 0, 0
   index: -1
 ImprovementIcons/Skynet
   rotate: false
-  xy: 4, 524
+  xy: 4, 588
   size: 700, 720
   orig: 700, 720
   offset: 0, 0
   index: -1
 NationIcons/Small People
   rotate: false
-  xy: 4, 4
+  xy: 4, 68
   size: 512, 512
   orig: 512, 512
   offset: 0, 0
   index: -1
 ReligionIcons/Faithful
   rotate: false
-  xy: 4, 1252
+  xy: 4, 1316
   size: 700, 720
   orig: 700, 720
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/City center-Sky-Ancient era
   rotate: false
-  xy: 1224, 966
+  xy: 1224, 1082
   size: 64, 118
   orig: 64, 118
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/City center-Sky-Atomic era
   rotate: false
-  xy: 1420, 1586
+  xy: 1420, 1650
   size: 64, 118
   orig: 64, 118
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/City center-Sky-Future era
   rotate: false
-  xy: 1420, 1586
+  xy: 1420, 1650
   size: 64, 118
   orig: 64, 118
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/City center-Sky-Information era
   rotate: false
-  xy: 1420, 1586
+  xy: 1420, 1650
   size: 64, 118
   orig: 64, 118
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/City center-Sky-Medieval era
   rotate: false
-  xy: 1420, 1586
+  xy: 1420, 1650
   size: 64, 118
   orig: 64, 118
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/City center-Sky-Modern era
   rotate: false
-  xy: 1420, 1586
+  xy: 1420, 1650
   size: 64, 118
   orig: 64, 118
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/City center-Sky-Classical era
   rotate: false
-  xy: 524, 116
+  xy: 524, 180
   size: 64, 118
   orig: 64, 118
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/City center-Sky-Industrial era
   rotate: false
-  xy: 1224, 840
+  xy: 1224, 956
   size: 64, 118
   orig: 64, 118
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/City center-Sky-Renaissance era
   rotate: false
-  xy: 1420, 1460
+  xy: 1420, 1524
   size: 64, 118
   orig: 64, 118
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Coast+Skynet
   rotate: false
-  xy: 1420, 1820
+  xy: 1420, 1884
   size: 128, 152
   orig: 128, 152
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Coast+Skynet2
   rotate: false
-  xy: 524, 364
+  xy: 524, 428
   size: 128, 152
   orig: 128, 152
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Coast+Skynet3
   rotate: false
-  xy: 712, 578
+  xy: 712, 642
   size: 128, 152
   orig: 128, 152
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Coast+Skynet4
   rotate: false
-  xy: 1224, 1092
-  size: 128, 152
-  orig: 128, 152
+  xy: 4, 4
+  size: 64, 56
+  orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Ocean+Skynet
   rotate: false
-  xy: 524, 242
+  xy: 1556, 1922
   size: 96, 114
   orig: 96, 114
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Ocean+Skynet2
   rotate: false
-  xy: 848, 616
+  xy: 524, 306
+  size: 96, 114
+  orig: 96, 114
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Ocean+Skynet3
+  rotate: false
+  xy: 848, 680
   size: 96, 114
   orig: 96, 114
   offset: 0, 0
   index: -1
 UnitIcons/Buzzer
   rotate: false
-  xy: 1420, 1712
+  xy: 1224, 1208
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Seaside
   rotate: false
-  xy: 712, 738
+  xy: 712, 802
   size: 504, 506
   orig: 504, 506
   offset: 0, 0
