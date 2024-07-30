@@ -4,7 +4,6 @@
 		"name": "Small People",
 		"leaderName": "Alatar The Blue",
 		"adjective": ["small ones"],
-	  	"style": "halfling",
 		"outerColor": [111, 183, 216],
 		"innerColor": [145, 76, 7],
 
